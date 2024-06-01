@@ -4,10 +4,6 @@ Sorry! is a childhood game, and we want to see a digitized version of it, with p
 ## Description
 Our project will be an online multiplayer version of Sorry! the board game. We think that it is a game that can be played from anywhere with an internet connection. We intend to add modern flair via different player piece skins, a shop, trading system, and a guild system where you can earn points by playing and winning the game.
 
-## Badges
-<p align="center">
-  <img width="468" alt="image" src="https://github.com/msharif-isu/MS2_1/blob/main/Frontend/app/src/main/res/drawable/logo.png">
-</p>
 
 ## Visuals 
 
@@ -39,7 +35,8 @@ https://github.com/msharif-isu/MS3_1/assets/169219030/faa168c6-f25d-477c-bc21-10
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150px; height: 150px">
         <a href="https://github.com/NakotaC">
-          
+          ![Screenshot 2024-05-31 at 10 56 27 PM](https://github.com/msharif-isu/MS3_1/assets/169219030/513f4a25-f46a-4911-bd4e-116071040b34)
+
           <img src="https://github.com/msharif-isu/MS3_1/assets/169219030/efc8f78b-da7a-4630-8266-aab9fb1f6aef" width="100" style="border-radius:50%; align-items:center; justify-content:center; overflow:hidden; padding-top:10px" alt=""/>
           <br />
           <sub style="font-size:14px"><b>Nakota Clark</b></sub>
